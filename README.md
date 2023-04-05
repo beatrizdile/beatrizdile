@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**beatrizdile/beatrizdile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World! 👾
 
-Here are some ideas to get you started:
+## About Me 💫
+I'm an 18 year old that fell in love for programming and currently studies software engineering at 42 School. Probably studying C right now.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Software Engineering
+
+✨ Cadet at 42 São Paulo
+
+🧠 C | Python | HTML | CSS
+
+#### Likes
+
+🍙 A good onigiri
+
+🎮 Videogames
