@@ -8,7 +8,7 @@ I'm an 18 year old that fell in love for programming and currently studies softw
 
 ✨ Cadet at 42 São Paulo
 
-🧠 C | Python | HTML | CSS
+🧠 Python | C | HTML | CSS
 
 #### Likes
 
