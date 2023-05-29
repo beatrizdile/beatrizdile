@@ -12,6 +12,15 @@ I'm an 18 year old that fell in love for programming and currently studies softw
 
 #### Likes
 
-🍙 A good onigiri
+🍙 A good oniguiri
+
+📖 Reading
 
 🎮 Videogames
+
+## 42 Cursus
+- [piscine](https://github.com/beatrizdile/42sp-piscine) - codes for Shell and from C libraries
+
+### Phase 1:
+
+- [libft](https://github.com/beatrizdile/42sp-libft) - my first C library
