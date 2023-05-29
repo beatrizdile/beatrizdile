@@ -19,8 +19,8 @@ I'm an 18 year old that fell in love for programming and currently studies softw
 🎮 Videogames
 
 ## 42 Cursus
-- [piscine](https://github.com/beatrizdile/42sp-piscine) - codes for Shell and from C libraries
+- [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
 
 ### Phase 1:
 
-- [libft](https://github.com/beatrizdile/42sp-libft) - my first C library
+- [libft](https://github.com/beatrizdile/42sp-libft) - My C library
