@@ -25,7 +25,7 @@ I'm an 18 year old that fell in love for programming and currently studies softw
 
 - [libft](https://github.com/beatrizdile/42sp-libft) - My C library
 - [get next line](https://github.com/beatrizdile/42sp-get_next_line) - Read each line
-- [printf](https://github.com/beatrizdile/42sp-get_next_line) - Recreation of printf
+- [printf](https://github.com/beatrizdile/42sp-printf) - Recreation of printf
 
 ## Contacts
 
