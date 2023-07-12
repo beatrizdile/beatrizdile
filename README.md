@@ -2,7 +2,7 @@
 # Hello World! 👾
 
 ## About Me 💫
-I'm an 18 year old that fell in love for programming and currently studies software engineering at 42 School. Probably studying C right now.
+I'm an 19 year old that fell in love for programming and currently studies software engineering at 42 School. Probably studying C right now.
 
 🔭 Software Engineering
 
@@ -26,6 +26,7 @@ I'm an 18 year old that fell in love for programming and currently studies softw
 - [libft](https://github.com/beatrizdile/42sp-libft) - My C library
 - [get next line](https://github.com/beatrizdile/42sp-get_next_line) - Read line by line
 - [printf](https://github.com/beatrizdile/42sp-printf) - Recreation of printf
+- [born2beroot](https://github.com/beatrizdile/42sp-printf) - Admin of my own system
 
 ## Contacts
 
