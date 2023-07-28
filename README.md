@@ -10,14 +10,6 @@ I'm an 19 year old that fell in love for programming and currently studies softw
 
 🧠 Python | C & C++ | HTML | CSS
 
-#### Likes
-
-🍙 A good oniguiri
-
-📖 Reading
-
-🎮 Videogames
-
 ## 42 Cursus
 - [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
 
