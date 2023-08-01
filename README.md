@@ -8,7 +8,7 @@ Motivated student in pursuit of becoming a Human Coder! Currently studing Softwa
 
 ✨ Cadet at 42 São Paulo
 
-🧠 Python | C & C++ | HTML | CSS
+🧠 Python | C & C++ | Linux & Shell
 
 ## 42 Cursus
 - [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
