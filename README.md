@@ -25,6 +25,7 @@ Motivated student in pursuit of becoming a Human Coder! Currently studing Softwa
 ### Phase 2:
 
 - [push swap](https://github.com/beatrizdile/42sp-push_swap) - Sorting a stack
+- [minishell](https://github.com/beatrizdile/42sp-minishell) - My own little bash
 
 ## Contacts
 
