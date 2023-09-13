@@ -2,7 +2,7 @@
 # Hello World! 👾
 
 ## About Me 💫
-Motivated student in pursuit of becoming a Human Coder! Currently studing Software Engineering at 42 School, where I've developed strong foundations on programming fundamentals coupled with hands-on experiences in various software projects. Aspiring to contribute with technical expertise and problem-solving skills in a dynamic team, eager to embark on a career in the tech industry. 
+Motivated student in pursuit of becoming a Human Coder! Currently studying Software Engineering at 42 School, where I've developed strong foundations on programming fundamentals coupled with hands-on experiences in various software projects. Aspiring to contribute with technical expertise and problem-solving skills in a dynamic team, eager to embark on a career in the tech industry. 
 
 🔭 Software Engineering
 
