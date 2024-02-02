@@ -27,6 +27,7 @@ Motivated student in pursuit of becoming a Human Coder! Currently studying Softw
 - [push swap](https://github.com/beatrizdile/42sp-push_swap) - Sorting a stack
 - [minishell](https://github.com/beatrizdile/42sp-minishell) - My own little bash
 - [philosophers](https://github.com/beatrizdile/42sp-philosophers) - Deadly philosophy
+- [net  practice](https://github.com/beatrizdile/42sp-net_practice) - Networks being practiced
 
 ## Contacts
 
