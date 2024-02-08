@@ -2,13 +2,13 @@
 # Hello World! 👾
 
 ## About Me 💫
-Motivated student in pursuit of becoming a Human Coder! Currently studying Software Engineering at 42 School, where I've developed strong foundations on programming fundamentals coupled with hands-on experiences in various software projects. Aspiring to contribute with technical expertise and problem-solving skills in a dynamic team, eager to embark on a career in the tech industry. 
+I'm **Beatriz**, a 19-year-old programmer in pursuit of becoming a Human Coder! I'm currently studying software engineering at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in technology. I'm an intern at Itaú, the biggest South American Bank and a place that offers me opportunities to apply my learnings. I'm highly eager to enhance my skills and achieve the best results in the face of the challenges posed to me, I'm deeply passionate for my craft and consistently seeking personal growth!
 
-🔭 Software Engineering
+🔭 Software Engineering at 42 São Paulo
 
-✨ Cadet at 42 São Paulo
+✨ Intern at the biggest South American Bank
 
-🧠 Python | C & C++ | Linux & Shell
+🧠 Python | C/C++ | Cloud | Linux
 
 ## 42 Cursus
 - [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
