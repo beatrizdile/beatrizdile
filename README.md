@@ -2,7 +2,7 @@
 # Hello World! 👾
 
 ## About Me 💫
-I'm **Beatriz**, a 19-year-old programmer in pursuit of becoming a Human Coder! I'm currently studying software engineering at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in computer science. I'm an intern at Itaú, the biggest South American Bank and a place that offers me opportunities to apply my learnings. I'm highly eager to enhance my skills and achieve the best results in the face of the challenges posed to me, I'm deeply passionate for my craft and consistently seeking personal growth!
+I'm **Beatriz**, a 19-year-old programmer in pursuit of becoming a Human Coder! I'm currently studying software engineering at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in computer science. I'm an intern at Itaú, the largest South American Bank and a place that offers me opportunities to apply my learnings. I'm highly eager to enhance my skills and achieve the best results in the face of the challenges posed to me, I'm deeply passionate about my craft and consistently seeking personal growth!
 
 🔭 Software Engineering at 42 São Paulo
 
