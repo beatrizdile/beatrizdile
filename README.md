@@ -6,7 +6,7 @@ I'm **Beatriz**, a 19-year-old programmer in pursuit of becoming a Human Coder! 
 
 🔭 Software Engineering at 42 São Paulo
 
-✨ Intern at the biggest South American Bank
+✨ Intern at the largest South American Bank
 
 🧠 Python | C/C++ | Cloud | Linux
 
