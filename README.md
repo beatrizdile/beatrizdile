@@ -8,7 +8,7 @@ I'm **Beatriz**, a programmer in pursuit of becoming a Human Coder! I'm currentl
 
 ✨ Intern at the largest South American Bank
 
-🧠 Python | C/C++ | Cloud | Linux
+🧠 Python | C/C++ | Cloud | SQL | Linux
 
 ## 42 Cursus
 - [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
