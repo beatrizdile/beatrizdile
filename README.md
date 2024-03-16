@@ -28,6 +28,7 @@ I'm **Beatriz**, a programmer in pursuit of becoming a Human Coder! I'm currentl
 - [minishell](https://github.com/beatrizdile/42sp-minishell) - My own little bash
 - [philosophers](https://github.com/beatrizdile/42sp-philosophers) - Deadly philosophy
 - [net  practice](https://github.com/beatrizdile/42sp-net_practice) - Networks being practiced
+- [cub3d](https://github.com/beatrizdile/my-cub3d) - Raycasting is cool
 
 ## Contacts
 
