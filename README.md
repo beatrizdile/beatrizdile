@@ -2,13 +2,25 @@
 # Hello World! 👾
 
 ## About Me 💫
-I'm **Beatriz**, a programmer in pursuit of becoming a Human Coder! I'm currently studying software engineering at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in computer science. I'm an intern at Itaú, the largest South American Bank and a place that offers me opportunities to apply my learnings. I'm highly eager to enhance my skills and achieve the best results in the face of the challenges posed to me, I'm deeply passionate about my craft and consistently seek personal growth!
+I'm a software engineering student at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in computer science. I'm an intern at Itaú, the largest South American Bank and a place where I apply my learnings. I'm deeply passionate about my craft and consistently seek personal growth!
 
 🔭 Software Engineering at 42 São Paulo
 
 ✨ Intern at the largest South American Bank
 
-🧠 Python | C/C++ | Cloud | SQL | Linux
+
+
+## Stack
+![Python](https://img.shields.io/badge/python-075290?style=for-the-badge&logo=python&logoColor=f1c232)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-F4B728?style=for-the-badge&logo=openjdk&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 42 Cursus
 - [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
