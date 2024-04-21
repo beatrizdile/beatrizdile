@@ -16,10 +16,6 @@ I'm a software engineering student at 42 São Paulo, an environment where I carr
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🔭 Software Engineering at 42 São Paulo
-
-✨ Intern at the largest South American Bank
-
 ## 42 Cursus
 - [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
 
