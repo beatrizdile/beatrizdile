@@ -1,15 +1,6 @@
 
 # Hello World! 👾
 
-## About Me 💫
-I'm a software engineering student at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in computer science. I'm an intern at Itaú, the largest South American Bank and a place where I apply my learnings. I'm deeply passionate about my craft and consistently seek personal growth!
-
-🔭 Software Engineering at 42 São Paulo
-
-✨ Intern at the largest South American Bank
-
-
-
 ## Stack
 ![Python](https://img.shields.io/badge/python-075290?style=for-the-badge&logo=python&logoColor=f1c232)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -21,6 +12,14 @@ I'm a software engineering student at 42 São Paulo, an environment where I carr
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+## About Me 💫
+I'm a software engineering student at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in computer science. I'm an intern at Itaú, the largest South American Bank and a place where I apply my learnings. I'm deeply passionate about my craft and consistently seek personal growth!
+
+🔭 Software Engineering at 42 São Paulo
+
+✨ Intern at the largest South American Bank
 
 ## 42 Cursus
 - [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
