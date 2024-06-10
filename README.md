@@ -2,7 +2,7 @@
 # Hello World! 👾
 
 ## About Me 💫
-I'm a software engineering student at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in computer science. I'm an intern at Itaú, the largest South American Bank and a place where I apply my learnings. I'm deeply passionate about my craft and consistently seek personal growth!
+I'm a software engineering student at 42 São Paulo, an environment where I carry out incredible projects and have been deepening my knowledge in computer science. I'm a Junior Backend Engineer at a Mexican startup: a fast-paced and intensive enviroment that allows me to thrive as a great developer. I'm deeply passionate about my craft and consistently seek personal growth!
 
 ### Stack
 ![Python](https://img.shields.io/badge/python-075290?style=for-the-badge&logo=python&logoColor=f1c232)
