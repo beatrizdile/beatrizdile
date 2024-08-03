@@ -9,12 +9,13 @@ I'm a Junior Backend Engineer at a Mexican startup: a fast-paced and intensive e
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-F4B728?style=for-the-badge&logo=amazon-web-services&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-075290?style=for-the-badge&logo=python&logoColor=f1c232)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 42 Cursus
 - [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
@@ -39,6 +40,7 @@ I'm a Junior Backend Engineer at a Mexican startup: a fast-paced and intensive e
 ### Phase 3:
 
 - [cpp](https://github.com/beatrizdile/42sp-cpp) - Objects need to be oriented
+- [webserv](https://github.com/beatrizdile/42sp-webserv) - Creating a webserver from scratch
 
 ## Contacts
 
