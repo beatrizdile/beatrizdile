@@ -2,10 +2,11 @@
 # Hello World! 👾
 
 ## About Me 💫
-I'm a Junior Backend Engineer at a Mexican startup: a fast-paced and intensive environment that allows me to thrive as a great developer. I’m also a software engineer student at 42 São Paulo, where I carry out incredible projects and have been deepening my knowledge in computer science. I'm deeply passionate about my craft and consistently seek personal growth!
+I'm a Backend Engineer at Uber: a fast-paced and intensive environment that allows me to thrive as a great developer working on high-impact products at a great scale. I graduated in Software Engineering at 42 São Paulo, where I've developed incredible projects and deepened my understanding of computer science fundamentals. I'm profoundly passionate about my craft and consistently seek personal growth!
 
 ### Stack
 ![Java](https://img.shields.io/badge/java-F4B728?style=for-the-badge&logo=openjdk&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-F4B728?style=for-the-badge&logo=amazon-web-services&logoColor=black)
